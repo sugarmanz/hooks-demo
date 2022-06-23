@@ -1,4 +1,4 @@
-# Hooks Demo
+# Hooks Playground
 
 Simple project to verify [hooks](https://github.com/intuit/hooks) functionality from an external perspective.
 
